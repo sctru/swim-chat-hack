@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102765820817",
+    "firebase_url": "https://swim-hackathon.firebaseio.com",
+    "project_id": "swim-hackathon",
+    "storage_bucket": "swim-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102765820817:android:de334dab4d9dda11807830",
+        "android_client_info": {
+          "package_name": "com.swim.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102765820817-1ji5u10l9voc7cls7o6n34ldor8spmhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwY8dF9eQUkXHv7q3O2W2zxA-i1o5MTds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102765820817-1ji5u10l9voc7cls7o6n34ldor8spmhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
